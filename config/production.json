@@ -1,0 +1,7 @@
+{
+    "port": "5000",
+    "jwtSecret": "ISuperPerec",
+    "mongoUri": "mongodb+srv://st1ch:1234@cluster0-2n1ae.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoUri2": "mongodb+srv://st1ch:1234qwer@cluster0-ndd38.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
